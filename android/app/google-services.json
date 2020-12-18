@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "581223906923",
+    "firebase_url": "https://whats-29a1f.firebaseio.com",
+    "project_id": "whats-29a1f",
+    "storage_bucket": "whats-29a1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581223906923:android:8ed6d82f09d6cbe2f5fb2e",
+        "android_client_info": {
+          "package_name": "matheusaugusto.cursoflutter.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581223906923-ghnscvpaoo5laqunejjl1i6ieanbskru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD0tsodzg-DBJ7DToSw4Wd9S1Bk0ulQMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581223906923-ghnscvpaoo5laqunejjl1i6ieanbskru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
